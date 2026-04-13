@@ -1,4 +1,5 @@
-# Signal Denoising Experiment
+# Signal Restoration via Butterworth Low-Pass Filtering
+> A MATLAB-based study on digital signal denoising, evaluating the efficacy of Butterworth filters in recovering sinusoidal components from AWGN-corrupted channels.
 
 This project demonstrates the process of generating a sinusoidal signal, adding Gaussian white noise, and removing that noise using a low-pass Butterworth filter in MATLAB.
 
